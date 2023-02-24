@@ -174,7 +174,7 @@ body footer {
   body footer {
     display: flex;
     justify-content: center;
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 @media (max-width: 350px) {
@@ -187,7 +187,7 @@ body footer {
   body footer {
     display: flex;
     justify-content: center;
-    font-size: 10px;
+    font-size: 8px;
   }
 }
 
